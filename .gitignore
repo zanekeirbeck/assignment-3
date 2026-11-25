@@ -1,0 +1,12 @@
+task_a_check
+task_a_check.exe
+task_b_check
+task_b_check.exe
+task_c_check
+task_c_check.exe
+gradebook
+gradebook.exe
+*.o
+*.obj
+*.pdb
+*.ilk
